@@ -7,6 +7,8 @@
 >* Calculating returns and risks using the covariance matrix 
 >* Optimizing asset weights to maximize the Sharpe ratio 
 >* Simulating portfolios to visualize the efficient frontier
+>
+> I created a report of 23 pages on this program, see it on my LinkedIn profile: www.linkedin.com/in/ninoaubert
 
 ## Prerequisites
 >Python: 
