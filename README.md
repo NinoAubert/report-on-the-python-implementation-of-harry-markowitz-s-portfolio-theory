@@ -11,7 +11,7 @@
 > **I created a report of 23 pages on this program, see it on my LinkedIn profile:** www.linkedin.com/in/ninoaubert
 
 ## Prerequisites
->**Python:** 
+>**Python:**
 > * Install Python: https://learn.microsoft.com/en-us/windows/python/beginners 
 >
 >**Python Libraries:**
@@ -25,6 +25,10 @@
 >* Install Spicy: https://docs.zeek.org/projects/spicy/en/latest/installation.html
 
 ## Final Result
+>### <ins>Efficient Frontier Graph:</ins>
 >![final-result-1.png](/final-result-1.png "Here the first result.")
+> * The yellow/green/... points represent the random portfolios. 
+> * The red star represents the optimal portfolio.
 >
+>### <ins>Optimal Portfolio Weights</ins>
 >![final-result-2.png](/final-result-2.png "Here the second result.")
